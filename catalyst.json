@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "salesforce-crm-integration"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
