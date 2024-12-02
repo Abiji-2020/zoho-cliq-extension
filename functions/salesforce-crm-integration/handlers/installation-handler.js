@@ -9,6 +9,7 @@ installationHandler.handleInstallation(async (req, res) => {
     *
     *}
     */
+   // To have a login component with the salesforce. yet to implement. 
 
    res.status = 200;
    return res;
